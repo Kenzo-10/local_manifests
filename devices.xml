@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="xiaomi" fetch="https://https://github.com/Kenzo-10/" />
+<remote name="xiaomi" fetch="https://github.com/Kenzo-10/" />
 <project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="xiaomi" revision="q-mr1" />
 <project path="device/sony/common" name="device-sony-common" groups="device" remote="xiaomi" revision="q-mr1" />
 
